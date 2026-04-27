@@ -5,3 +5,4 @@
 - Ejercicio 02: Descarga y análisis inicial del dataset.
 - Ejercicio 03: Limpieza y normalización de datos.
 - Ejercicio 04: Implementación de la clase FineAnalyzer.
+- Ejercicio 05: Visualización de datos y exportación de gráficos.
